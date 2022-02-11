@@ -11,3 +11,4 @@
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C++](./algorithms/cpp/142.cpp)|Medium|List|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./algorithms/cpp/53.cpp)|Easy|DP|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./algorithms/cpp/814.cpp)|Medium|Tree|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](./algorithms/cpp/112.cpp)|Easy|Tree|
