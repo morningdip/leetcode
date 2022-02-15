@@ -12,3 +12,4 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./algorithms/cpp/53.cpp)|Easy|DP|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./algorithms/cpp/814.cpp)|Medium|Tree|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](./algorithms/cpp/112.cpp)|Easy|Tree|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./algorithms/cpp/35.cpp)|Easy|Binary Search|
