@@ -14,3 +14,4 @@
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C++](./algorithms/cpp/112.cpp)|Easy|Tree|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./algorithms/cpp/35.cpp)|Easy|Binary Search|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[C++](./algorithms/cpp/74.cpp)|Medium|Binary Search|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./algorithms/cpp/169.cpp)|Easy|Divide and Conquer|
