@@ -9,7 +9,6 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
@@ -17,10 +16,10 @@ public:
         if (!p && !q) return true;
         
         // One is empty
-        if (!p || !q) return fasle;
+        if (!p || !q) return false;
         
         // Both are not empty, compare the root value
-        if (p-val != q->val) return false;
+        if (p->val != q->val) return false;
         
         // Compare left-subtree and right-subtree recyrsively
         return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
