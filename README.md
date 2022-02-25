@@ -21,3 +21,4 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[C++](./algorithms/cpp/169.cpp)|Easy|Divide and Conquer|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C++](./algorithms/cpp/704.cpp)|Easy|Binary Search|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./algorithms/cpp/875.cpp)|Medium|Binary Search|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./algorithms/cpp/69.cpp)|Easy|Binary Search|
